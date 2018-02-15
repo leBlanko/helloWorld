@@ -1,0 +1,51 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.0.v20100520-0800,"org.eclipse.ui.workbench.texteditor",1518685933632
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1518685933632
+started,bundle,org.eclipse.update.core,3.2.400.v20100512,"org.eclipse.update.core",1518685933632
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1518685933632
+os,sysinfo,,,"win32",1518685933632
+arch,sysinfo,,,"x86_64",1518685933632
+ws,sysinfo,,,"win32",1518685933632
+locale,sysinfo,,,"fr_FR",1518685933632
+processors,sysinfo,,,"8",1518685933632
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1518685933632
+java.runtime.version,sysinfo,,,"1.8.0_161-b12",1518685933632
+java.specification.name,sysinfo,,,"Java Platform API Specification",1518685933632
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1518685933632
+java.specification.version,sysinfo,,,"1.8",1518685933632
+java.vendor,sysinfo,,,"Oracle Corporation",1518685933632
+java.version,sysinfo,,,"1.8.0_161",1518685933632
+java.vm.info,sysinfo,,,"mixed mode",1518685933632
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1518685933632
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1518685933632
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1518685933632
+java.vm.specification.version,sysinfo,,,"1.8",1518685933632
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1518685933632
+java.vm.version,sysinfo,,,"25.161-b12",1518685933632
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1518685953486
+started,bundle,org.eclipse.compare,3.5.100.I20100526-0800,"org.eclipse.compare",1518685953627
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518685961350
+started,bundle,org.eclipse.ui.externaltools,3.2.0.v20100427,"org.eclipse.ui.externaltools",1518685962928
+started,bundle,org.eclipse.debug.ui,3.6.0.v20100601-1530,"org.eclipse.debug.ui",1518685962960
+started,bundle,org.eclipse.core.externaltools,1.0.0.v20100505,"org.eclipse.core.externaltools",1518685962989
+started,bundle,org.eclipse.wst.sse.ui,1.2.0.v201006030742,"org.eclipse.wst.sse.ui",1518685982286
+started,bundle,org.eclipse.wst.sse.core,1.1.500.v201006020308,"org.eclipse.wst.sse.core",1518685982304
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.0.v201004080500,"org.eclipse.wst.common.frameworks.ui",1518685982694
+started,bundle,org.eclipse.wst.validation.ui,1.2.204.v201004150700,"org.eclipse.wst.validation.ui",1518685982696
+started,bundle,org.eclipse.wst.validation,1.2.200.v201005271900,"org.eclipse.wst.validation",1518685982698
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.100.v201005190114,"org.eclipse.wst.common.project.facet.core",1518685982698
+started,bundle,org.eclipse.mylyn.wikitext.ui,1.3.0.v20100608-0100-e3x,"org.eclipse.mylyn.wikitext.ui",1518685983056
+started,bundle,org.eclipse.mylyn.wikitext.core,1.3.0.v20100608-0100-e3x,"org.eclipse.mylyn.wikitext.core",1518685983071
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518685990756
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1518685990756
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518685993304
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518686071027
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1518686071040
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518686088237
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518686222845
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518686231313
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518686418636
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1518686418642
+activated,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.ProblemView",1518686462762
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1518686471323
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1518686472171
